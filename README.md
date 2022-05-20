@@ -6,7 +6,7 @@
  The goal for this Project was to create a e-commerce backend using Node.ja, Sequelize, and MYSQL to perform CRUD tasks using an express.js server
  
 ## Walkthrough
-
+https://drive.google.com/file/d/1Ku6D4JpnehLNbjznuezgOe1s1QVYdjiT/view
 ## Required Installation
 To properly run this project you need to install, Node.js, Express, Sequelize, dontenv and mysql2, Since there is no frontend for this project you will have to also download Insomnia for testing functionality
 
