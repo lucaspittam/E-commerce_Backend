@@ -1,7 +1,10 @@
 # E-commerce_Backend
+#Licence
+![MIT](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Description
  The goal for this Project was to create a e-commerce backend using Node.ja, Sequelize, and MYSQL to perform CRUD tasks using an express.js server
+ 
 ## Walkthrough
 
 ## Required Installation
